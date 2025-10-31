@@ -6,16 +6,16 @@
         "failed_dkim": 0
       },
       {
-        "total_graymail_recipients": 214158
+        "total_graymail_recipients": 214161
       },
       {
         "detected_spam": 21454
       },
       {
-        "malicious_url": 69
+        "malicious_url": 67
       },
       {
-        "total_spoofed_emails": 19602
+        "total_spoofed_emails": 19596
       },
       {
         "verif_decrypt_success": 10
@@ -24,61 +24,61 @@
         "detected_virus": 997
       },
       {
-        "threat_content_filter": 8131
+        "threat_content_filter": 8124
       },
       {
-        "blocked_invalid_recipient": 134
+        "blocked_invalid_recipient": 126
       },
       {
         "blocked_sdr": 0
       },
       {
-        "marketing_mail": 48346
+        "marketing_mail": 48339
       },
       {
-        "ims_spam_increment_over_case": 9
+        "ims_spam_increment_over_case": 10
       },
       {
-        "total_mailbox_auto_remediated_recipients": 5
+        "total_mailbox_auto_remediated_recipients": 6
       },
       {
-        "detected_spam_certain": 17039
+        "detected_spam_certain": 17048
       },
       {
-        "detected_spam_suspect": 4401
+        "detected_spam_suspect": 4399
       },
       {
-        "blocked_dmarc": 18462
+        "blocked_dmarc": 18453
       },
       {
-        "total_threat_recipients": 176910
+        "total_threat_recipients": 176914
       },
       {
-        "total_recipients": 821842
+        "total_recipients": 821849
       },
       {
         "verif_decrypt_fail": 0
       },
       {
-        "detected_amp": 20
+        "detected_amp": 22
       },
       {
-        "bulk_mail": 73481
+        "bulk_mail": 73473
       },
       {
-        "social_mail": 92326
+        "social_mail": 92333
       },
       {
-        "total_clean_recipients": 430781
+        "total_clean_recipients": 430780
       },
       {
-        "detected_virus_per_msg": 126
+        "detected_virus_per_msg": 136
       },
       {
-        "failed_spf": 1133
+        "failed_spf": 1142
       },
       {
-        "blocked_reputation": 146117
+        "blocked_reputation": 146118
       }
     ],
     "type": "mail_incoming_traffic_summary"

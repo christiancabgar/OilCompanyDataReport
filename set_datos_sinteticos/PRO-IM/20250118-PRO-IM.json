@@ -6,16 +6,16 @@
         "failed_dkim": 9
       },
       {
-        "total_graymail_recipients": 214160
+        "total_graymail_recipients": 214163
       },
       {
         "detected_spam": 21457
       },
       {
-        "malicious_url": 62
+        "malicious_url": 60
       },
       {
-        "total_spoofed_emails": 19602
+        "total_spoofed_emails": 19596
       },
       {
         "verif_decrypt_success": 6
@@ -24,66 +24,66 @@
         "detected_virus": 983
       },
       {
-        "threat_content_filter": 8124
+        "threat_content_filter": 8117
       },
       {
-        "blocked_invalid_recipient": 120
+        "blocked_invalid_recipient": 112
       },
       {
-        "blocked_sdr": 4
+        "blocked_sdr": 6
       },
       {
-        "marketing_mail": 48338
+        "marketing_mail": 48331
       },
       {
         "ims_spam_increment_over_case": 0
       },
       {
-        "total_mailbox_auto_remediated_recipients": 7
+        "total_mailbox_auto_remediated_recipients": 8
       },
       {
-        "detected_spam_certain": 17054
+        "detected_spam_certain": 17063
       },
       {
-        "detected_spam_suspect": 4407
+        "detected_spam_suspect": 4405
       },
       {
-        "blocked_dmarc": 18467
+        "blocked_dmarc": 18458
       },
       {
-        "total_threat_recipients": 176912
+        "total_threat_recipients": 176916
       },
       {
-        "total_recipients": 821837
+        "total_recipients": 821844
       },
       {
         "verif_decrypt_fail": 8
       },
       {
-        "detected_amp": 13
+        "detected_amp": 15
       },
       {
-        "bulk_mail": 73491
+        "bulk_mail": 73483
       },
       {
-        "social_mail": 92344
+        "social_mail": 92351
       },
       {
-        "total_clean_recipients": 430783
+        "total_clean_recipients": 430782
       },
       {
-        "detected_virus_per_msg": 129
+        "detected_virus_per_msg": 139
       },
       {
-        "failed_spf": 1144
+        "failed_spf": 1153
       },
       {
-        "blocked_reputation": 146125
+        "blocked_reputation": 146126
       }
     ],
     "type": "mail_incoming_traffic_summary"
   },
   "meta": {
-    "totalCount": 7
+    "totalCount": 15
   }
 }

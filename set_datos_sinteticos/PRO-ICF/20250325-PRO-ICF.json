@@ -4,91 +4,91 @@
     "resultSet": {
       "recipients_matched": [
         {
-          "ALLOW_PHIS_SIMULATION_WOMBAT": 9
+          "ALLOW_PHIS_SIMULATION_WOMBAT": 19
         },
         {
-          "BLOC_SEC_BLACKLIST_QUARANTINE": 101
+          "BLOC_SEC_BLACKLIST_QUARANTINE": 94
         },
         {
-          "BLOCK_SEC_ANTIVIRUS": 399
+          "BLOCK_SEC_ANTIVIRUS": 389
         },
         {
-          "BLOCK_SEC_Asunto_Mail_Delivered": 6793
+          "BLOCK_SEC_Asunto_Mail_Delivered": 6791
         },
         {
           "BLOCK_SEC_BITCOIN": 0
         },
         {
-          "BLOCK_SEC_BLACKLIST_SOC_SPAM_INFO": 33
+          "BLOCK_SEC_BLACKLIST_SOC_SPAM_INFO": 30
         },
         {
-          "BLOCK_SEC_EIC_Repsol": 38
+          "BLOCK_SEC_EIC_Repsol": 32
         },
         {
-          "BLOCK_SEC_EIC_resto": 92
+          "BLOCK_SEC_EIC_resto": 85
         },
         {
-          "BLOCK_SEC_extensiones_Peligrosas": 33
+          "BLOCK_SEC_extensiones_Peligrosas": 40
         },
         {
           "BLOCK_SEC_MIME_Type_peligrosos": 0
         },
         {
-          "BLOCK_SPAM_POSITIVE": 14139
+          "BLOCK_SPAM_POSITIVE": 14147
         },
         {
-          "BLOCK_SPAM_SDR_AWFUL": 766
+          "BLOCK_SPAM_SDR_AWFUL": 769
         },
         {
-          "BLOCK_SPAM_SDR_AWFUL_RLUZYGAS": 1
+          "BLOCK_SPAM_SDR_AWFUL_RLUZYGAS": 0
         },
         {
-          "BLOCK_SPAM_SDR_POOR": 1298
+          "BLOCK_SPAM_SDR_POOR": 1288
         },
         {
           "BLOCK_SPAM_SDR_POOR_RLUZYGAS": 0
         },
         {
-          "BLOCK_SPAM_SUSPECT": 4224
+          "BLOCK_SPAM_SUSPECT": 4220
         },
         {
-          "BLOCK_YAMMER": 81777
+          "BLOCK_YAMMER": 81774
         },
         {
-          "DMARC_FAILURE": 1561
+          "DMARC_FAILURE": 1567
         },
         {
-          "ESTUDIO_POSITIVO_SPAM": 52
+          "ESTUDIO_POSITIVO_SPAM": 61
         },
         {
-          "ESTUDIO_SUSPECTED_SPAM": 30
+          "ESTUDIO_SUSPECTED_SPAM": 20
         },
         {
-          "MON_EIC_MAIL_CHIMP": 0
+          "MON_EIC_MAIL_CHIMP": 4
         },
         {
-          "MON_EIC_O365": 23
+          "MON_EIC_O365": 19
         },
         {
-          "MON_WL_AS_IP_DMARC": 7
+          "MON_WL_AS_IP_DMARC": 17
         },
         {
-          "MONITOR_GRAYMAIL_NONE": 4622
+          "MONITOR_GRAYMAIL_NONE": 4629
         },
         {
-          "MONITOR_GRAYMAIL_ZERO": 2579
+          "MONITOR_GRAYMAIL_ZERO": 2582
         },
         {
-          "MONITOR_WL_AS_IP_POS": 28
+          "MONITOR_WL_AS_IP_POS": 25
         },
         {
-          "MONITOR_WL_AS_IP_SUS": 47
+          "MONITOR_WL_AS_IP_SUS": 51
         },
         {
-          "SPF_HARDFAIL": 747
+          "SPF_HARDFAIL": 755
         },
         {
-          "URL_QUARANTINE_MALICIOUS": 824
+          "URL_QUARANTINE_MALICIOUS": 822
         }
       ]
     },

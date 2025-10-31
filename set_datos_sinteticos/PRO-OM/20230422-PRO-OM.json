@@ -12,31 +12,31 @@
         "cres_failed": 9
       },
       {
-        "threat_content_filter": 7651
+        "threat_content_filter": 7648
       },
       {
         "total_dlp_incidents": 4
       },
       {
-        "total_clean_recipients": 170159
+        "total_clean_recipients": 170161
       },
       {
-        "total_recipients_processed": 177793
+        "total_recipients_processed": 177791
       },
       {
         "ims_spam_increment_over_case": 0
       },
       {
-        "detected_amp": 0
+        "detected_amp": 3
       },
       {
-        "total_recipients": 177922
+        "total_recipients": 177923
       },
       {
         "detected_spam": 0
       },
       {
-        "total_hard_bounces": 3452
+        "total_hard_bounces": 3453
       },
       {
         "detected_virus_per_msg": 0
@@ -45,12 +45,12 @@
         "malicious_url": 0
       },
       {
-        "total_recipients_delivered": 174483
+        "total_recipients_delivered": 174481
       }
     ],
     "type": "mail_outgoing_traffic_summary"
   },
   "meta": {
-    "totalCount": 0
+    "totalCount": 7
   }
 }

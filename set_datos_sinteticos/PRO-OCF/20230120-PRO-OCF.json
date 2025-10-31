@@ -4,10 +4,10 @@
     "resultSet": {
       "recipients_matched": [
         {
-          "MON_OUTGOING_DOMAINS_NDRs_O365": 7240
+          "MON_OUTGOING_DOMAINS_NDRs_O365": 7236
         },
         {
-          "OUTGOING_DOMAINS_O365": 437
+          "OUTGOING_DOMAINS_O365": 429
         }
       ]
     },
