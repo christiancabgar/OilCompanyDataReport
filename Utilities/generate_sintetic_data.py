@@ -121,7 +121,7 @@ def generate_synthetic_files(templates, start_date, end_date, base_path="."):
                 json.dump(perturbed, f, ensure_ascii=False, indent=2)
         current_date += timedelta(days=1)
 
-def main(base_path="C:\\Users\\chris\\Personal\\Universidad\\Prácticas externas\\Proyectos\\OilCompanyDataReport\\set_datos_sinteticos"):
+def main(base_path="C:\\Users\\chris\\Personal\\Universidad\\Prácticas externas\\Proyectos\\OilCompanyDataReport\\set_datos_sinteticos_json"):
     templates = load_templates(base_path)
     if not templates:
         print("No se encontraron plantillas JSON en las carpetas especificadas.")
