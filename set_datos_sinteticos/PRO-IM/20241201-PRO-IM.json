@@ -1,0 +1,89 @@
+{
+  "data": {
+    "date": "01/12/2024",
+    "resultSet": [
+      {
+        "failed_dkim": 6
+      },
+      {
+        "total_graymail_recipients": 214153
+      },
+      {
+        "detected_spam": 21455
+      },
+      {
+        "malicious_url": 79
+      },
+      {
+        "total_spoofed_emails": 19611
+      },
+      {
+        "verif_decrypt_success": 0
+      },
+      {
+        "detected_virus": 995
+      },
+      {
+        "threat_content_filter": 8131
+      },
+      {
+        "blocked_invalid_recipient": 139
+      },
+      {
+        "blocked_sdr": 0
+      },
+      {
+        "marketing_mail": 48351
+      },
+      {
+        "ims_spam_increment_over_case": 6
+      },
+      {
+        "total_mailbox_auto_remediated_recipients": 4
+      },
+      {
+        "detected_spam_certain": 17042
+      },
+      {
+        "detected_spam_suspect": 4399
+      },
+      {
+        "blocked_dmarc": 18454
+      },
+      {
+        "total_threat_recipients": 176912
+      },
+      {
+        "total_recipients": 821847
+      },
+      {
+        "verif_decrypt_fail": 0
+      },
+      {
+        "detected_amp": 11
+      },
+      {
+        "bulk_mail": 73480
+      },
+      {
+        "social_mail": 92324
+      },
+      {
+        "total_clean_recipients": 430766
+      },
+      {
+        "detected_virus_per_msg": 132
+      },
+      {
+        "failed_spf": 1140
+      },
+      {
+        "blocked_reputation": 146116
+      }
+    ],
+    "type": "mail_incoming_traffic_summary"
+  },
+  "meta": {
+    "totalCount": 9
+  }
+}

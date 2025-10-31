@@ -1,0 +1,19 @@
+{
+  "data": {
+    "date": "21/01/2024",
+    "resultSet": {
+      "recipients_matched": [
+        {
+          "MON_OUTGOING_DOMAINS_NDRs_O365": 7259
+        },
+        {
+          "OUTGOING_DOMAINS_O365": 444
+        }
+      ]
+    },
+    "type": "mail_content_filter_outgoing"
+  },
+  "meta": {
+    "totalCount": 0
+  }
+}

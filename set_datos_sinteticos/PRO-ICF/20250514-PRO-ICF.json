@@ -1,0 +1,100 @@
+{
+  "data": {
+    "date": "14/05/2025",
+    "resultSet": {
+      "recipients_matched": [
+        {
+          "ALLOW_PHIS_SIMULATION_WOMBAT": 6
+        },
+        {
+          "BLOC_SEC_BLACKLIST_QUARANTINE": 102
+        },
+        {
+          "BLOCK_SEC_ANTIVIRUS": 401
+        },
+        {
+          "BLOCK_SEC_Asunto_Mail_Delivered": 6796
+        },
+        {
+          "BLOCK_SEC_BITCOIN": 7
+        },
+        {
+          "BLOCK_SEC_BLACKLIST_SOC_SPAM_INFO": 34
+        },
+        {
+          "BLOCK_SEC_EIC_Repsol": 27
+        },
+        {
+          "BLOCK_SEC_EIC_resto": 74
+        },
+        {
+          "BLOCK_SEC_extensiones_Peligrosas": 34
+        },
+        {
+          "BLOCK_SEC_MIME_Type_peligrosos": 0
+        },
+        {
+          "BLOCK_SPAM_POSITIVE": 14122
+        },
+        {
+          "BLOCK_SPAM_SDR_AWFUL": 776
+        },
+        {
+          "BLOCK_SPAM_SDR_AWFUL_RLUZYGAS": 3
+        },
+        {
+          "BLOCK_SPAM_SDR_POOR": 1301
+        },
+        {
+          "BLOCK_SPAM_SDR_POOR_RLUZYGAS": 1
+        },
+        {
+          "BLOCK_SPAM_SUSPECT": 4225
+        },
+        {
+          "BLOCK_YAMMER": 81794
+        },
+        {
+          "DMARC_FAILURE": 1556
+        },
+        {
+          "ESTUDIO_POSITIVO_SPAM": 52
+        },
+        {
+          "ESTUDIO_SUSPECTED_SPAM": 22
+        },
+        {
+          "MON_EIC_MAIL_CHIMP": 4
+        },
+        {
+          "MON_EIC_O365": 12
+        },
+        {
+          "MON_WL_AS_IP_DMARC": 6
+        },
+        {
+          "MONITOR_GRAYMAIL_NONE": 4620
+        },
+        {
+          "MONITOR_GRAYMAIL_ZERO": 2589
+        },
+        {
+          "MONITOR_WL_AS_IP_POS": 23
+        },
+        {
+          "MONITOR_WL_AS_IP_SUS": 38
+        },
+        {
+          "SPF_HARDFAIL": 738
+        },
+        {
+          "URL_QUARANTINE_MALICIOUS": 836
+        }
+      ]
+    },
+    "type": "mail_content_filter_incoming"
+  },
+  "meta": {
+    "totalCount": 0
+  }
+}

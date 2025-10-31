@@ -1,0 +1,56 @@
+{
+  "data": {
+    "date": "06/02/2024",
+    "resultSet": [
+      {
+        "detected_virus": 0
+      },
+      {
+        "cres_successful": 7
+      },
+      {
+        "cres_failed": 6
+      },
+      {
+        "threat_content_filter": 7653
+      },
+      {
+        "total_dlp_incidents": 0
+      },
+      {
+        "total_clean_recipients": 170148
+      },
+      {
+        "total_recipients_processed": 177793
+      },
+      {
+        "ims_spam_increment_over_case": 3
+      },
+      {
+        "detected_amp": 0
+      },
+      {
+        "total_recipients": 177935
+      },
+      {
+        "detected_spam": 0
+      },
+      {
+        "total_hard_bounces": 3435
+      },
+      {
+        "detected_virus_per_msg": 0
+      },
+      {
+        "malicious_url": 0
+      },
+      {
+        "total_recipients_delivered": 174489
+      }
+    ],
+    "type": "mail_outgoing_traffic_summary"
+  },
+  "meta": {
+    "totalCount": 0
+  }
+}

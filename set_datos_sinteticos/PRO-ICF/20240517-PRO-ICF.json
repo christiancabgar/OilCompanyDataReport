@@ -1,0 +1,100 @@
+{
+  "data": {
+    "date": "17/05/2024",
+    "resultSet": {
+      "recipients_matched": [
+        {
+          "ALLOW_PHIS_SIMULATION_WOMBAT": 10
+        },
+        {
+          "BLOC_SEC_BLACKLIST_QUARANTINE": 107
+        },
+        {
+          "BLOCK_SEC_ANTIVIRUS": 385
+        },
+        {
+          "BLOCK_SEC_Asunto_Mail_Delivered": 6799
+        },
+        {
+          "BLOCK_SEC_BITCOIN": 0
+        },
+        {
+          "BLOCK_SEC_BLACKLIST_SOC_SPAM_INFO": 35
+        },
+        {
+          "BLOCK_SEC_EIC_Repsol": 29
+        },
+        {
+          "BLOCK_SEC_EIC_resto": 80
+        },
+        {
+          "BLOCK_SEC_extensiones_Peligrosas": 26
+        },
+        {
+          "BLOCK_SEC_MIME_Type_peligrosos": 0
+        },
+        {
+          "BLOCK_SPAM_POSITIVE": 14129
+        },
+        {
+          "BLOCK_SPAM_SDR_AWFUL": 765
+        },
+        {
+          "BLOCK_SPAM_SDR_AWFUL_RLUZYGAS": 7
+        },
+        {
+          "BLOCK_SPAM_SDR_POOR": 1304
+        },
+        {
+          "BLOCK_SPAM_SDR_POOR_RLUZYGAS": 6
+        },
+        {
+          "BLOCK_SPAM_SUSPECT": 4223
+        },
+        {
+          "BLOCK_YAMMER": 81780
+        },
+        {
+          "DMARC_FAILURE": 1560
+        },
+        {
+          "ESTUDIO_POSITIVO_SPAM": 53
+        },
+        {
+          "ESTUDIO_SUSPECTED_SPAM": 30
+        },
+        {
+          "MON_EIC_MAIL_CHIMP": 8
+        },
+        {
+          "MON_EIC_O365": 17
+        },
+        {
+          "MON_WL_AS_IP_DMARC": 8
+        },
+        {
+          "MONITOR_GRAYMAIL_NONE": 4613
+        },
+        {
+          "MONITOR_GRAYMAIL_ZERO": 2576
+        },
+        {
+          "MONITOR_WL_AS_IP_POS": 21
+        },
+        {
+          "MONITOR_WL_AS_IP_SUS": 44
+        },
+        {
+          "SPF_HARDFAIL": 738
+        },
+        {
+          "URL_QUARANTINE_MALICIOUS": 822
+        }
+      ]
+    },
+    "type": "mail_content_filter_incoming"
+  },
+  "meta": {
+    "totalCount": 8
+  }
+}

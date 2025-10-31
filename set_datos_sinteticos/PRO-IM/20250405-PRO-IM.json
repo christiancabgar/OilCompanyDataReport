@@ -1,0 +1,89 @@
+{
+  "data": {
+    "date": "05/04/2025",
+    "resultSet": [
+      {
+        "failed_dkim": 0
+      },
+      {
+        "total_graymail_recipients": 214161
+      },
+      {
+        "detected_spam": 21463
+      },
+      {
+        "malicious_url": 82
+      },
+      {
+        "total_spoofed_emails": 19609
+      },
+      {
+        "verif_decrypt_success": 7
+      },
+      {
+        "detected_virus": 983
+      },
+      {
+        "threat_content_filter": 8117
+      },
+      {
+        "blocked_invalid_recipient": 127
+      },
+      {
+        "blocked_sdr": 0
+      },
+      {
+        "marketing_mail": 48343
+      },
+      {
+        "ims_spam_increment_over_case": 9
+      },
+      {
+        "total_mailbox_auto_remediated_recipients": 1
+      },
+      {
+        "detected_spam_certain": 17041
+      },
+      {
+        "detected_spam_suspect": 4405
+      },
+      {
+        "blocked_dmarc": 18455
+      },
+      {
+        "total_threat_recipients": 176901
+      },
+      {
+        "total_recipients": 821833
+      },
+      {
+        "verif_decrypt_fail": 3
+      },
+      {
+        "detected_amp": 28
+      },
+      {
+        "bulk_mail": 73485
+      },
+      {
+        "social_mail": 92332
+      },
+      {
+        "total_clean_recipients": 430772
+      },
+      {
+        "detected_virus_per_msg": 120
+      },
+      {
+        "failed_spf": 1139
+      },
+      {
+        "blocked_reputation": 146114
+      }
+    ],
+    "type": "mail_incoming_traffic_summary"
+  },
+  "meta": {
+    "totalCount": 0
+  }
+}
